@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/libkdegames-18.08.0.tar.xz",
-                    "sha256": "e0bca02674c5e961db17e8225affc689c437ab78eabcd620a1e38ee7b1d583ca"
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
+                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
                 } 
             ]
         },
@@ -42,8 +42,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/frameworks/5.48/portingAids/kdelibs4support-5.48.0.tar.xz", 
-                    "sha256": "0e7f654bacd1e70aefb216998cd67d3280f6bbbf1ca6a2ee882142a70d2c1a15" 
+                    "url": "https://download.kde.org/stable/frameworks/5.53/portingAids/kdelibs4support-5.53.0.tar.xz",
+                    "sha256": "208a2f308aa55a1ec9c311e3c3224d65d78feb53a1df127b26007f046a9821aa"
                 } 
             ]
         },
@@ -53,8 +53,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/kgoldrunner-18.08.0.tar.xz", 
-                    "sha256": "5b676084111fa13fc7d01e5d8e741c23a7afc0d0c58c3d3d4870af2b3e5a238e" 
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/kgoldrunner-18.12.0.tar.xz",
+                    "sha256": "79917845d932ae93750772e25124e9f418a76bc3e474b76c222647055d95ac32"
                 }
             ]
         }
