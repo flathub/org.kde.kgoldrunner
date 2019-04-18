@@ -1,7 +1,7 @@
 {
     "id": "org.kde.kgoldrunner",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.11",
+    "runtime-version": "5.12",
     "sdk": "org.kde.Sdk",
     "command": "kgoldrunner",
     "rename-icon": "kgoldrunner",
@@ -19,20 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
-                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
-                } 
-            ]
-        },
-        {
-            "name": "kdelibs4support",
-            "buildsystem": "cmake-ninja",
-            "config-opts": ["-DCMAKE_BUILD_TYPE=RelWithDebInfo"],
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/frameworks/5.53/portingAids/kdelibs4support-5.53.0.tar.xz",
-                    "sha256": "208a2f308aa55a1ec9c311e3c3224d65d78feb53a1df127b26007f046a9821aa"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/libkdegames-19.04.0.tar.xz",
+                    "sha256": "2965e4a313609f6408becb13e54e26bfe14b37b58e7737e051129896f6e8bcd3"
                 } 
             ]
         },
@@ -42,8 +30,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/kgoldrunner-18.12.0.tar.xz",
-                    "sha256": "79917845d932ae93750772e25124e9f418a76bc3e474b76c222647055d95ac32"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/kgoldrunner-19.04.0.tar.xz",
+                    "sha256": "3d2eb37695328065ee5cf4c4ba4ee707ce514b4c7aab84c93cd3bef8d329b8ba"
                 }
             ]
         }
