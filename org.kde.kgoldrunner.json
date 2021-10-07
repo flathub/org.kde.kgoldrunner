@@ -18,8 +18,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.08.1/src/libkdegames-21.08.1.tar.xz",
-                    "sha256": "51de56a9f714085ceed2d3200852c1e33b7847768336d02524b07ce3f51cdd6d"
+                    "url": "https://download.kde.org/stable/release-service/21.08.2/src/libkdegames-21.08.2.tar.xz",
+                    "sha256": "077203df97c7b41b1f87d790a8107066d59b1fa65ae176320230b1120a246b49"
                 } 
             ]
         },
@@ -29,8 +29,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.08.1/src/kgoldrunner-21.08.1.tar.xz",
-                    "sha256": "05f555114b6158a6722d415f35a32f268882cd16f13a244fc28761b71cd1efb5"
+                    "url": "https://download.kde.org/stable/release-service/21.08.2/src/kgoldrunner-21.08.2.tar.xz",
+                    "sha256": "bf7dfaa32f0d6da7f79ea7ff6b065915be127ae32431e1dad22678d77f50c88f"
                 }
             ]
         }
