@@ -12,7 +12,7 @@
         "--socket=fallback-x11",
         "--socket=wayland"
     ],
-     "cleanup": [
+    "cleanup": [
         "/include",
         "/lib/cmake",
         "/share/doc",
@@ -25,8 +25,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/libkdegames-25.12.2.tar.xz",
-                    "sha256": "b258933b52987aefd8133edcdea373a7f7df2983084a642d7763a20862fd8c72",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/libkdegames-25.12.3.tar.xz",
+                    "sha256": "64605a58b087a57dc504d8e7fa4d637b4d59fb91ba1b4ed60f96fc78568f141c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -42,8 +42,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/kgoldrunner-25.12.2.tar.xz",
-                    "sha256": "b51bd69bf0caf0c3186b3874175acad5df066434798b771f17182e7a72470bbc",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kgoldrunner-25.12.3.tar.xz",
+                    "sha256": "851ca9d6e95399737c77c367015ab8465e339b4ec00491b665ecedcd287d537c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
